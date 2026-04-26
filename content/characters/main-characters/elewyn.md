@@ -15,6 +15,8 @@ Played by Bri
 
 ## Motivations
 
+## Relationships
+
 ## Backstory
 
 ## In-Game Events
