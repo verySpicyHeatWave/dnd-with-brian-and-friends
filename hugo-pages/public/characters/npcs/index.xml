@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-Player Characters on D&amp;D With Brian and Friends</title>
+    <link>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/</link>
+    <description>Recent content in Non-Player Characters on D&amp;D With Brian and Friends</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belvedere</title>
+      <link>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/belvedere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/belvedere/</guid>
+      <description>&lt;h1 id=&#34;belvedere&#34;&gt;Belvedere&lt;a class=&#34;anchor&#34; href=&#34;#belvedere&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Biff</title>
+      <link>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/biff-the-imp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/biff-the-imp/</guid>
+      <description>&lt;h1 id=&#34;biff&#34;&gt;Biff&lt;a class=&#34;anchor&#34; href=&#34;#biff&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Findlay</title>
+      <link>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/findlay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/findlay/</guid>
+      <description>&lt;h1 id=&#34;findlay&#34;&gt;Findlay&lt;a class=&#34;anchor&#34; href=&#34;#findlay&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Max</title>
+      <link>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/max-the-imp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/max-the-imp/</guid>
+      <description>&lt;h1 id=&#34;max&#34;&gt;Max&lt;a class=&#34;anchor&#34; href=&#34;#max&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
