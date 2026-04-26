@@ -1,4 +1,4 @@
 ---
 title: "Non-Player Characters"
-weight: 2
+weight: 3
 ---

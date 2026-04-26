@@ -1,0 +1,61 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D&amp;D With Brian and Friends – Humaoid Characters</title>
+    <link>//localhost:1313/npcs/humanoid/</link>
+    <description>Recent content in Humaoid Characters on D&amp;D With Brian and Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/npcs/humanoid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Emporer Caladwen</title>
+      <link>//localhost:1313/npcs/humanoid/emporer-caladwen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/npcs/humanoid/emporer-caladwen/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Emporer Caladwen is the emporer of Squawhorn, who sits the thrown of The Twilight Court. He is the father to &lt;a href=&#34;../../../main-characters/aelyra-caladwen&#34;&gt;Aelrya Caladwen&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>General Ashryver</title>
+      <link>//localhost:1313/npcs/humanoid/general-ashryver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/npcs/humanoid/general-ashryver/</guid>
+      <description>
+        
+        
+        &lt;p&gt;General Ashryver is the top general of Squawhorn, who regularly counsils with The Twilight Court and serves as its military arm. He is the father to Syren Ashryver.&lt;/p&gt;
+&lt;p&gt;Might be dead? Unclear, but Justine did say that he was dead.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Findlay</title>
+      <link>//localhost:1313/npcs/humanoid/findlay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/npcs/humanoid/findlay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Findlay is the owner of the Lamp Emporium in &lt;a href=&#34;../../../../setting/estharia/norville&#34;&gt;Norville&lt;/a&gt;. He had enslaved the demon &lt;a href=&#34;../../demons/belvedere&#34;&gt;Belvedere&lt;/a&gt; as his personal servent as well as several &lt;a href=&#34;../../imps/&#34;&gt;Imps&lt;/a&gt; as his workers, until he accidentally destroyed his demonic contracts in &lt;a href=&#34;../../../../story/s001-the-lamp-shop&#34;&gt;Session #1&lt;/a&gt;, freeing the demon and imps from their bonds. The players freed the imps and implored Findlay to hire paid workers in the future instead of meddling with the enslavement of demons and imps.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

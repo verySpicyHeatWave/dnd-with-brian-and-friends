@@ -1,5 +1,5 @@
 ---
-title: "Player Characters"
+title: "Main Characters"
 weight: 1
 ---
 This page holds reference to all of the main characters of the story:
