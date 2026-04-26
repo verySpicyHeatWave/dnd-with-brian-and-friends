@@ -4,6 +4,8 @@ weight: 1
 type: docs
 ---
 
+_This section is currently incomplete!_
+
 ## Highlights
 
 - The characters all meet in the Norville tavern, The Lute & Lyre, and prepare for a performance.
