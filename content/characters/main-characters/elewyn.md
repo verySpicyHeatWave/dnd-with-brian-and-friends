@@ -1,8 +1,8 @@
 ---
 title: "Elewyn"
 weight: 1
+type: docs
 ---
-# Elewyn
 
 Played by Bri
 
@@ -14,6 +14,8 @@ Played by Bri
 ## Character Traits
 
 ## Motivations
+
+## Relationships
 
 ## Backstory
 
