@@ -22,11 +22,16 @@ Played by Brittney
 
 ## Relationships
 
+- A close relationship with her father
+- Marzipan is a real one for sure
+
 ## Backstory
 
 From Brittney:
 
->
+> She's a half elf rogue who performs lute in taverns while quietly relieving wealthy patrons of their coin purses. But don't worry, she's not a monster. She will leave behind chocolate coins and place of stolen ones. She's charming, a little chaotic, and extremely passionate about collecting beautiful daggers. She insists her good luck comes from a tiny, invisible duck named marzipan, which she assures everyone is completely real.
+
+Vesper Treadway grew up in Ratwhistle with her adoring human Father, from whom she adopted her affinity for knives.
 
 ## In-Game Events
 
