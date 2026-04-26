@@ -5,3 +5,7 @@ theme = 'book'
 
 [params]
   BookSection = "/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
