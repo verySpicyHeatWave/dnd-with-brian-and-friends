@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D&amp;D With Brian and Friends – Non-Player Characters</title>
-    <link>/characters/npcs/</link>
+    <link>//localhost:1313/characters/npcs/</link>
     <description>Recent content in Non-Player Characters on D&amp;D With Brian and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/characters/npcs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/characters/npcs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Humaoid Characters</title>
-      <link>/characters/npcs/humanoid/</link>
+      <link>//localhost:1313/characters/npcs/humanoid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/npcs/humanoid/</guid>
+      <guid>//localhost:1313/characters/npcs/humanoid/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Demons</title>
-      <link>/characters/npcs/demons/</link>
+      <link>//localhost:1313/characters/npcs/demons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/npcs/demons/</guid>
+      <guid>//localhost:1313/characters/npcs/demons/</guid>
       <description>
         
         
@@ -43,14 +43,19 @@
     
     <item>
       <title>Imps</title>
-      <link>/characters/npcs/imps/</link>
+      <link>//localhost:1313/characters/npcs/imps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/npcs/imps/</guid>
+      <guid>//localhost:1313/characters/npcs/imps/</guid>
       <description>
         
         
-        
+        &lt;p&gt;This section holds reference to all of the main imp characters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./max&#34;&gt;Max&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./biff&#34;&gt;Biff&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     

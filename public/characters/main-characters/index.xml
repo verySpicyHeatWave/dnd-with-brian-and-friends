@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D&amp;D With Brian and Friends – Player Characters</title>
-    <link>/characters/main-characters/</link>
+    <link>//localhost:1313/characters/main-characters/</link>
     <description>Recent content in Player Characters on D&amp;D With Brian and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/characters/main-characters/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/characters/main-characters/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Aelyra Caladwen</title>
-      <link>/characters/main-characters/aelyra-caladwen/</link>
+      <link>//localhost:1313/characters/main-characters/aelyra-caladwen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/main-characters/aelyra-caladwen/</guid>
+      <guid>//localhost:1313/characters/main-characters/aelyra-caladwen/</guid>
       <description>
         
         
@@ -51,10 +51,10 @@
     
     <item>
       <title>Elewyn</title>
-      <link>/characters/main-characters/elewyn/</link>
+      <link>//localhost:1313/characters/main-characters/elewyn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/main-characters/elewyn/</guid>
+      <guid>//localhost:1313/characters/main-characters/elewyn/</guid>
       <description>
         
         
@@ -87,10 +87,10 @@
     
     <item>
       <title>Syren Ashryver</title>
-      <link>/characters/main-characters/syren-ashryver/</link>
+      <link>//localhost:1313/characters/main-characters/syren-ashryver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/main-characters/syren-ashryver/</guid>
+      <guid>//localhost:1313/characters/main-characters/syren-ashryver/</guid>
       <description>
         
         
@@ -124,10 +124,10 @@
     
     <item>
       <title>Vesper Treadway</title>
-      <link>/characters/main-characters/vesper-treadway/</link>
+      <link>//localhost:1313/characters/main-characters/vesper-treadway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/characters/main-characters/vesper-treadway/</guid>
+      <guid>//localhost:1313/characters/main-characters/vesper-treadway/</guid>
       <description>
         
         

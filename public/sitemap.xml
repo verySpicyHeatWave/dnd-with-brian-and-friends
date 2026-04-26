@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/characters/main-characters/aelyra-caladwen/</loc>
+    <loc>//localhost:1313/characters/main-characters/aelyra-caladwen/</loc>
   </url><url>
-    <loc>/characters/npcs/demons/belvedere/</loc>
+    <loc>//localhost:1313/characters/npcs/demons/belvedere/</loc>
   </url><url>
-    <loc>/characters/npcs/imps/biff/</loc>
+    <loc>//localhost:1313/characters/npcs/imps/biff/</loc>
   </url><url>
-    <loc>/characters/</loc>
+    <loc>//localhost:1313/characters/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>/characters/main-characters/elewyn/</loc>
+    <loc>//localhost:1313/characters/main-characters/elewyn/</loc>
   </url><url>
-    <loc>/characters/npcs/humanoid/emporer-caladwen/</loc>
+    <loc>//localhost:1313/characters/npcs/humanoid/emporer-caladwen/</loc>
   </url><url>
-    <loc>/setting/estharia/</loc>
+    <loc>//localhost:1313/setting/estharia/</loc>
   </url><url>
-    <loc>/characters/npcs/humanoid/general-ashryver/</loc>
+    <loc>//localhost:1313/characters/npcs/humanoid/general-ashryver/</loc>
   </url><url>
-    <loc>/characters/npcs/humanoid/</loc>
+    <loc>//localhost:1313/characters/npcs/humanoid/</loc>
   </url><url>
-    <loc>/characters/npcs/imps/max/</loc>
+    <loc>//localhost:1313/characters/npcs/imps/max/</loc>
   </url><url>
-    <loc>/setting/estharia/norville/</loc>
+    <loc>//localhost:1313/setting/estharia/norville/</loc>
   </url><url>
-    <loc>/characters/main-characters/</loc>
+    <loc>//localhost:1313/characters/main-characters/</loc>
   </url><url>
-    <loc>/setting/estharia/ratwhistle/</loc>
+    <loc>//localhost:1313/setting/estharia/ratwhistle/</loc>
   </url><url>
-    <loc>/story/s001-the-lamp-shop/</loc>
+    <loc>//localhost:1313/story/s001-the-lamp-shop/</loc>
   </url><url>
-    <loc>/setting/</loc>
+    <loc>//localhost:1313/setting/</loc>
   </url><url>
-    <loc>/setting/squawhorn/</loc>
+    <loc>//localhost:1313/setting/squawhorn/</loc>
   </url><url>
-    <loc>/story/</loc>
+    <loc>//localhost:1313/story/</loc>
   </url><url>
-    <loc>/characters/main-characters/syren-ashryver/</loc>
+    <loc>//localhost:1313/characters/main-characters/syren-ashryver/</loc>
   </url><url>
-    <loc>/setting/squawhorn/the-twilight-court/</loc>
+    <loc>//localhost:1313/setting/squawhorn/the-twilight-court/</loc>
   </url><url>
-    <loc>/characters/main-characters/vesper-treadway/</loc>
+    <loc>//localhost:1313/characters/main-characters/vesper-treadway/</loc>
   </url><url>
-    <loc>/characters/npcs/demons/</loc>
+    <loc>//localhost:1313/characters/npcs/demons/</loc>
   </url><url>
-    <loc>/characters/npcs/humanoid/findlay/</loc>
+    <loc>//localhost:1313/characters/npcs/humanoid/findlay/</loc>
   </url><url>
-    <loc>/characters/npcs/</loc>
+    <loc>//localhost:1313/characters/npcs/</loc>
   </url><url>
-    <loc>/characters/npcs/imps/</loc>
+    <loc>//localhost:1313/characters/npcs/imps/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

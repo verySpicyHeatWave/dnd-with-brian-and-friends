@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D&amp;D With Brian and Friends – Squawhorn</title>
-    <link>/setting/squawhorn/</link>
+    <link>//localhost:1313/setting/squawhorn/</link>
     <description>Recent content in Squawhorn on D&amp;D With Brian and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/setting/squawhorn/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/setting/squawhorn/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,14 +16,15 @@
     
     <item>
       <title>The Twilight Court</title>
-      <link>/setting/squawhorn/the-twilight-court/</link>
+      <link>//localhost:1313/setting/squawhorn/the-twilight-court/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/setting/squawhorn/the-twilight-court/</guid>
+      <guid>//localhost:1313/setting/squawhorn/the-twilight-court/</guid>
       <description>
         
         
-        
+        &lt;p&gt;The Twilight Court is the seat of the high council of Squawhorn, the nation from which &lt;a href=&#34;../../../characters/main-characters/aelyra-caladwen&#34;&gt;Aelyra Caladwen&lt;/a&gt; and &lt;a href=&#34;../../../characters/main-characters/syren-ashryver&#34;&gt;Syren Ashryver&lt;/a&gt; hail. It is ruled by &lt;a href=&#34;../../../characters/npcs/humanoid/emporer-caladwen&#34;&gt;Emporer Caladwen&lt;/a&gt;.&lt;/p&gt;
+
       </description>
     </item>
     
