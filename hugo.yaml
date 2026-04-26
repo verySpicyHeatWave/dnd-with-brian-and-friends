@@ -21,15 +21,6 @@ menu:
     - name: Home
       pageRef: /
       weight: 1
-    - name: Characters
-      pageRef: /characters
-      weight: 2
-    - name: Setting
-      pageRef: /setting
-      weight: 3
-    - name: Story
-      pageRef: /story
-      weight: 4
     - name: Search
       weight: 5
       params:
