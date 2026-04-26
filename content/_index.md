@@ -1,5 +1,5 @@
 ---
-title: "D&D With Brian and Friends"
+title: "Home"
 weight: 1
 type: docs
 ---
