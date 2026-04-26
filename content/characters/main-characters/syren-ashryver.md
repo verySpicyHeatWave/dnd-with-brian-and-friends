@@ -24,7 +24,7 @@ Played by Justine (or Jaylin?)
 ## Relationships
 
 - Close friends with Aelyra, grew up together in the High Court
-- Complicated relationship with her parents: Father was an overbearing military man, mother left when she was young
+- Complicated relationship with her parents: Father was an overbearing military man, mother left when she was young.
 
 ## Backstory
 

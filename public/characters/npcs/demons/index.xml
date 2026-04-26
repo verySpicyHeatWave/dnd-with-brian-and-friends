@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D&amp;D With Brian and Friends – Demons</title>
+    <link>/characters/npcs/demons/</link>
+    <description>Recent content in Demons on D&amp;D With Brian and Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/characters/npcs/demons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Belvedere</title>
+      <link>/characters/npcs/demons/belvedere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/characters/npcs/demons/belvedere/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

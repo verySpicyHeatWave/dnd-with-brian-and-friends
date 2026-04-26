@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D&amp;D With Brian and Friends – Non-Player Characters</title>
-    <link>//localhost:1313/characters/npcs/</link>
+    <link>/characters/npcs/</link>
     <description>Recent content in Non-Player Characters on D&amp;D With Brian and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/characters/npcs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/characters/npcs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,11 +15,25 @@
     
     
     <item>
-      <title>Belvedere</title>
-      <link>//localhost:1313/characters/npcs/belvedere/</link>
+      <title>Humaoid Characters</title>
+      <link>/characters/npcs/humanoid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/characters/npcs/belvedere/</guid>
+      <guid>/characters/npcs/humanoid/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This section is specifically for Humanoid characters, like Humans and Elves and Dwarves.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Demons</title>
+      <link>/characters/npcs/demons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/characters/npcs/demons/</guid>
       <description>
         
         
@@ -28,37 +42,11 @@
     </item>
     
     <item>
-      <title>Biff</title>
-      <link>//localhost:1313/characters/npcs/biff-the-imp/</link>
+      <title>Imps</title>
+      <link>/characters/npcs/imps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/characters/npcs/biff-the-imp/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Findlay</title>
-      <link>//localhost:1313/characters/npcs/findlay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/characters/npcs/findlay/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Max</title>
-      <link>//localhost:1313/characters/npcs/max-the-imp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/characters/npcs/max-the-imp/</guid>
+      <guid>/characters/npcs/imps/</guid>
       <description>
         
         

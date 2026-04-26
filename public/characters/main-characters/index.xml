@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D&amp;D With Brian and Friends – Player Characters</title>
-    <link>//localhost:1313/characters/main-characters/</link>
+    <link>/characters/main-characters/</link>
     <description>Recent content in Player Characters on D&amp;D With Brian and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/characters/main-characters/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/characters/main-characters/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Aelyra Caladwen</title>
-      <link>//localhost:1313/characters/main-characters/aelyra-caladwen/</link>
+      <link>/characters/main-characters/aelyra-caladwen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/characters/main-characters/aelyra-caladwen/</guid>
+      <guid>/characters/main-characters/aelyra-caladwen/</guid>
       <description>
         
         
@@ -43,7 +43,7 @@
 &lt;li&gt;Complicated relationship with her parents, neither of whom really ever understood her indifference towards the crown&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Backstory&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;backstory&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#backstory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Aelyra Caladwen is the daughter of the Emporer of the Twilight Court. As such, she grew up wealthy and well-off, but she has a rebellious streak in her that couldn&amp;rsquo;t easily be controlled. She has always had a lust for adventure, a love for music, a compassion for the less fortunate, and the drive to break free from the golden chains that had bound her. When Syren suggested to her best friend Aelyra that she wanted to leave the court in search of her sister, Aelyra jumped at the opportunity.&lt;/p&gt;
+    &lt;a href=&#34;#backstory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Aelyra Caladwen is the daughter of &lt;a href=&#34;../../npcs/humanoid/emporer-caladwen&#34;&gt;Emporer Caladwen&lt;/a&gt; of the Twilight Court. As such, she grew up wealthy and well-off, but she has a rebellious streak in her that couldn&amp;rsquo;t easily be controlled. She has always had a lust for adventure, a love for music, a compassion for the less fortunate, and the drive to break free from the golden chains that had bound her. When Syren suggested to her best friend Aelyra that she wanted to leave the court in search of her sister, Aelyra jumped at the opportunity.&lt;/p&gt;
 &lt;h2&gt;In-Game Events&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;in-game-events&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#in-game-events&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
       </description>
@@ -51,10 +51,10 @@
     
     <item>
       <title>Elewyn</title>
-      <link>//localhost:1313/characters/main-characters/elewyn/</link>
+      <link>/characters/main-characters/elewyn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/characters/main-characters/elewyn/</guid>
+      <guid>/characters/main-characters/elewyn/</guid>
       <description>
         
         
@@ -87,10 +87,10 @@
     
     <item>
       <title>Syren Ashryver</title>
-      <link>//localhost:1313/characters/main-characters/syren-ashryver/</link>
+      <link>/characters/main-characters/syren-ashryver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/characters/main-characters/syren-ashryver/</guid>
+      <guid>/characters/main-characters/syren-ashryver/</guid>
       <description>
         
         
@@ -113,7 +113,7 @@
 &lt;h2&gt;Relationships&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;relationships&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#relationships&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Close friends with Aelyra, grew up together in the High Court&lt;/li&gt;
-&lt;li&gt;Complicated relationship with her parents: Father was an overbearing military man, mother left when she was young&lt;/li&gt;
+&lt;li&gt;Complicated relationship with her parents: Father was an overbearing military man, mother left when she was young.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Backstory&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;backstory&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#backstory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Syren grew up in The Twilight Court of Squawhorn under a strict military general father. Her mother fell in love with a human (ew) and ran off from the court, leaving Syren motherless and bitter. She was fully expected to engage in military service, herself, but the discovery that she had a long-lost half-sister sparked the fire of a personal quest inside her. She must find the half-sister. When she told her lifelong friend Aelyra of her plot, her best friend agreed to accompany her, and together, they embarked on a quest east towards Estharia, the direction her mother traveled so many years before.&lt;/p&gt;
@@ -124,10 +124,10 @@
     
     <item>
       <title>Vesper Treadway</title>
-      <link>//localhost:1313/characters/main-characters/vesper-treadway/</link>
+      <link>/characters/main-characters/vesper-treadway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/characters/main-characters/vesper-treadway/</guid>
+      <guid>/characters/main-characters/vesper-treadway/</guid>
       <description>
         
         

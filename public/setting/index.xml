@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D&amp;D With Brian and Friends – Setting</title>
-    <link>//localhost:1313/setting/</link>
+    <link>/setting/</link>
     <description>Recent content in Setting on D&amp;D With Brian and Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/setting/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/setting/index.xml" rel="self" type="application/rss+xml" />
     
     
       
