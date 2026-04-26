@@ -39,7 +39,7 @@ Mere moments into the performance, a man bursts through the tavern door in a pan
  The players follow Findlay back to the Lamp Emporium. Findlay points to a mark on the ground and says, "I can't get any closer than that to the building." The players test the ward, ensuring that they are not also kept out by the magic. They are not, and so Vesper approaches the primary entrance which has a poorly written and heavily mispelled sign that says, "Closed. Reopening under new management. -B". She tries the door, but finds it locked, and so she produces her thieves kit and picks the lock, which is a little more complex than she's accustomed to, but she gets it unlocked without getting anyone's attention and takes a peek inside to scope out the situation.
 
 
- ## Rewards
+ <!-- ## Rewards
 
 - Experience
   - Total session xp: 
@@ -57,4 +57,4 @@ Mere moments into the performance, a man bursts through the tavern door in a pan
 - Syren
 
 - Vesper
-  - +50 xp for staying in character (not immediately agreeing to help, but asking, "what's in it for me?")
+  - +50 xp for staying in character (not immediately agreeing to help, but asking, "what's in it for me?") -->
