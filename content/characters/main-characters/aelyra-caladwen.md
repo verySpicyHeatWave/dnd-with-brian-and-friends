@@ -1,8 +1,8 @@
 ---
 title: "Aelyra Caladwen"
 weight: 1
+type: docs
 ---
-# Aelyra Caladwen
 
 Played by Alex
 

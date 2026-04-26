@@ -1,8 +1,8 @@
 ---
 title: "Syren Ashryver"
 weight: 1
+type: docs
 ---
-# Syren Ashryver
 
 Played by Justine (or Jaylin?)
 

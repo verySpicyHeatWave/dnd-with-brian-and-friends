@@ -1,5 +1,5 @@
 ---
 title: "The Twilight Court"
 weight: 1
+type: docs
 ---
-# The Twilight Court

@@ -1,10 +1,10 @@
 ---
 title: "Vesper Treadway"
 weight: 1
+type: docs
 ---
-# Vesper Treadway
 
-## Played by Brittney
+Played by Brittney
 
 ## Character Design
 

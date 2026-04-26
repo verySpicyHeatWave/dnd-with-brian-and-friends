@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/main-characters/aelyra-caladwen/</loc>
+    <loc>//localhost:1313/characters/main-characters/aelyra-caladwen/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/belvedere/</loc>
+    <loc>//localhost:1313/characters/npcs/belvedere/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/biff-the-imp/</loc>
+    <loc>//localhost:1313/characters/npcs/biff-the-imp/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/</loc>
+    <loc>//localhost:1313/characters/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/main-characters/elewyn/</loc>
+    <loc>//localhost:1313/characters/main-characters/elewyn/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/setting/estharia/</loc>
+    <loc>//localhost:1313/setting/estharia/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/findlay/</loc>
+    <loc>//localhost:1313/characters/npcs/findlay/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/max-the-imp/</loc>
+    <loc>//localhost:1313/characters/npcs/max-the-imp/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/setting/estharia/norville/</loc>
+    <loc>//localhost:1313/setting/estharia/norville/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/main-characters/</loc>
+    <loc>//localhost:1313/characters/main-characters/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/setting/estharia/ratwhistle/</loc>
+    <loc>//localhost:1313/setting/estharia/ratwhistle/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/story/s001-the-lamp-shop/</loc>
+    <loc>//localhost:1313/story/s001-the-lamp-shop/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/setting/</loc>
+    <loc>//localhost:1313/setting/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/setting/squawhorn/</loc>
+    <loc>//localhost:1313/setting/squawhorn/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/main-characters/syren-ashryver/</loc>
+    <loc>//localhost:1313/characters/main-characters/syren-ashryver/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/setting/squawhorn/the-twilight-court/</loc>
+    <loc>//localhost:1313/story/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/main-characters/vesper-treadway/</loc>
+    <loc>//localhost:1313/setting/squawhorn/the-twilight-court/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/characters/npcs/</loc>
+    <loc>//localhost:1313/characters/main-characters/vesper-treadway/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/story/</loc>
+    <loc>//localhost:1313/characters/npcs/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/dnd-with-brian-and-friends/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
