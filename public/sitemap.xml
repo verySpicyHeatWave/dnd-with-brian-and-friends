@@ -6,8 +6,6 @@
   </url><url>
     <loc>//localhost:1313/npcs/demons/belvedere/</loc>
   </url><url>
-    <loc>//localhost:1313/npcs/imps/biff/</loc>
-  </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
     <loc>//localhost:1313/main-characters/elewyn/</loc>
@@ -37,6 +35,8 @@
     <loc>//localhost:1313/setting/squawhorn/the-twilight-court/</loc>
   </url><url>
     <loc>//localhost:1313/main-characters/vesper-treadway/</loc>
+  </url><url>
+    <loc>//localhost:1313/npcs/imps/biff/</loc>
   </url><url>
     <loc>//localhost:1313/npcs/demons/</loc>
   </url><url>

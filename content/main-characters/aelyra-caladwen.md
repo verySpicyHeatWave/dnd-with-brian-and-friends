@@ -28,6 +28,3 @@ Played by Alex
 ## Backstory
 
 Aelyra Caladwen is the daughter of [Emporer Caladwen](../../npcs/humanoid/emporer-caladwen) of the Twilight Court. As such, she grew up wealthy and well-off, but she has a rebellious streak in her that couldn't easily be controlled. She has always had a lust for adventure, a love for music, a compassion for the less fortunate, and the drive to break free from the golden chains that had bound her. When Syren suggested to her best friend Aelyra that she wanted to leave the court in search of her sister, Aelyra jumped at the opportunity.
-
-## In-Game Events
-

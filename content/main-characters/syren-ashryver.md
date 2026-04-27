@@ -4,7 +4,7 @@ weight: 1
 type: docs
 ---
 
-Played by Justine (or Jaylin?)
+Played by Justine
 
 ## Character Design
 
@@ -15,6 +15,7 @@ Played by Justine (or Jaylin?)
 
 - She's, like, really strong
 - Gruff and intimidating
+- A little bloodthirsty sometimes
 - Protective of Aelyra
 
 ## Motivations
@@ -29,6 +30,4 @@ Played by Justine (or Jaylin?)
 ## Backstory
 
 Syren grew up in The Twilight Court of Squawhorn under a strict military general father. Her mother fell in love with a human (ew) and ran off from the court, leaving Syren motherless and bitter. She was fully expected to engage in military service, herself, but the discovery that she had a long-lost half-sister sparked the fire of a personal quest inside her. She must find the half-sister. When she told her lifelong friend Aelyra of her plot, her best friend agreed to accompany her, and together, they embarked on a quest east towards Estharia, the direction her mother traveled so many years before.
-
-## In-Game Events
 

@@ -33,8 +33,6 @@ From Brittney:
 
 Vesper Treadway grew up in Ratwhistle with her adoring human Father, from whom she adopted her affinity for knives.
 
-## In-Game Events
-
 ## Marzipan
 
 Marzipan is an invisible, potentially imaginary Duck to whom Vesper believes she owes her life after an incident in Ratwhistle during her childhood that nearly took her life. This duck provides much needed companionship to Vesper, who travels alone, and Vesper frequently consults her feathered friend for advice on risky situations. Is Marzipan real? Time will tell. Time... Will... Tell...

@@ -8,6 +8,7 @@ This is where I'm keeping all of the game info. It's like a wiki. It helps me ke
 
 The sidebar will have links to everything for you to navigate. There are three categories of organization:
 
-- Characters
-- Setting
-- Story
+- [Main Characters](./main-characters/)
+- [Session Summaries](./story/)
+- [Non-Player Characters](./npcs/)
+- [Setting Locations](./setting/)

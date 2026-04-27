@@ -28,5 +28,3 @@ Played by Bri
 ## Backstory
 
 Little is known about the past of the mysterious Elewyn. She simply wanders the world, helping whoever she can however she can, and following the wind.
-
-## In-Game Events

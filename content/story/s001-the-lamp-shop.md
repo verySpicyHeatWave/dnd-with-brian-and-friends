@@ -12,8 +12,9 @@ _This section is currently incomplete!_
 - During Vesper and Aelyra's performance, a man bursts through the door pleading for help
 - He is the owner of the Lamp Emporium, and tells everyone that he spilled tea on his demonic contracts that bound a demon and several imps to his servitude, which voided the contracts and freed the demons and imps. He's lost controls of his shop and needs help breaking the ward, killing the demon and the imps, and getting back into his shop and home.
 - The characters agree to help!
-- They head to the lamp emporium and pick the lock of the main entrance
-- They find some imps on the ground floor painting a sign
+- They head to the lamp emporium and Vesper picks the lock of the main entrance
+- They find some imps on the showroom floor painting a sign, planning to open the shop the following day
+- 
 
 
 ## Story
@@ -40,6 +41,11 @@ Mere moments into the performance, a man bursts through the tavern door in a pan
 
  The players follow Findlay back to the Lamp Emporium. Findlay points to a mark on the ground and says, "I can't get any closer than that to the building." The players test the ward, ensuring that they are not also kept out by the magic. They are not, and so Vesper approaches the primary entrance which has a poorly written and heavily mispelled sign that says, "Closed. Reopening under new management. -B". She tries the door, but finds it locked, and so she produces her thieves kit and picks the lock, which is a little more complex than she's accustomed to, but she gets it unlocked without getting anyone's attention and takes a peek inside to scope out the situation.
 
+ Peering through the door, Vesper can see three imps on the floor of a well-stocked lamp emporium show room. Two of them--one, a skunk-like imp with two parallel stripes running along its back, and the other a small gray demon with enormous pointed ears and a thin tail with a sharp barb at the end of it--are painting a new sign for the lamp emporium. The third, a slightly bigger but still relatively small green creature, paced back and forth with a club, overseeing the sign, nodding with approval at the mispelled words and malformed letters.
+
+Vesper returns to the party to tell them what she saw, and she suggests a silent approach. Syren expresses that she feels confident that she would walk in and kill the imps with no need for secrecy, stating that she is "really powerful". Aelyra suggests that, perhaps they don't kill the cute little guys, but instead, perhaps they could persuade them, and she even suggests using some of her magic to do it. Vesper seems to like that plan, suggesting that they try to simply buy a lamp, or ask for a tour of the lamp emporium. "And then kill them?" Syren suggests, and Aelyra says, "No no no... I think that these imps deserve to live." They start to think about Findlay and his motives, starting to doubt whether they can trust someone who enslaved these creatures, and consider helping the imps instead.
+
+AFter a discussion about what to do with the imps and Findlay, the players decide to 
 
  <!-- ## Rewards
 
