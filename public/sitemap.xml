@@ -8,7 +8,7 @@
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/main-characters/elowen/</loc>
+    <loc>//localhost:1313/main-characters/elowen-giggleleaf/</loc>
   </url><url>
     <loc>//localhost:1313/npcs/humanoid/emporer-caladwen/</loc>
   </url><url>
@@ -44,9 +44,13 @@
   </url><url>
     <loc>//localhost:1313/story/</loc>
   </url><url>
+    <loc>//localhost:1313/npcs/imps/fog/</loc>
+  </url><url>
     <loc>//localhost:1313/npcs/imps/</loc>
   </url><url>
     <loc>//localhost:1313/npcs/</loc>
+  </url><url>
+    <loc>//localhost:1313/npcs/imps/yuck/</loc>
   </url><url>
     <loc>//localhost:1313/setting/</loc>
   </url><url>

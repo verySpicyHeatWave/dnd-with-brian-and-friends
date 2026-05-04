@@ -23,7 +23,7 @@
       <description>
         
         
-        &lt;p&gt;Max is the defacto leader of the imps, popular among most of them and has earned their loyalty through his own deeds. He has been described as &amp;ldquo;very cool&amp;rdquo;. His right-hand man, best friend, and most trusted ally among the imps is &lt;a href=&#34;../biff&#34;&gt;Biff&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;Max is the defacto leader of the imps, popular among most of them and has earned their loyalty through his own deeds. He is brown and looks quite a bit like a bat. He has been described as &amp;ldquo;very cool&amp;rdquo;. His right-hand man, best friend, and most trusted ally among the imps is &lt;a href=&#34;../biff&#34;&gt;Biff&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
@@ -37,7 +37,35 @@
       <description>
         
         
-        &lt;p&gt;Biff is &lt;a href=&#34;../max&#34;&gt;Max&amp;rsquo;s&lt;/a&gt; right-hand imp. He is gruff, with a thick cockney-like accent.&lt;/p&gt;
+        &lt;p&gt;Biff is &lt;a href=&#34;../max&#34;&gt;Max&amp;rsquo;s&lt;/a&gt; right-hand imp. He is gruff, with a thick cockney-like accent. He fights with a club and don&amp;rsquo;t take no guff from nobody, I tells &amp;lsquo;ya.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fog</title>
+      <link>//localhost:1313/npcs/imps/fog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/npcs/imps/fog/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Fog is one of &lt;a href=&#34;../max&#34;&gt;Max&amp;rsquo;s&lt;/a&gt; imp followers. He is a small, grey imp with slight demonic traits. He has a New York accent and breathes plumes of smoke.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Yuck</title>
+      <link>//localhost:1313/npcs/imps/yuck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/npcs/imps/yuck/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Yuck is one of the imps loyal to &lt;a href=&#34;../../demons/belvedere&#34;&gt;Belvedere&lt;/a&gt;. He was a slender pink cat-like imp. Vesper cut off his tail before Syren slit his throat and killed her in the first session.&lt;/p&gt;
 
       </description>
     </item>
