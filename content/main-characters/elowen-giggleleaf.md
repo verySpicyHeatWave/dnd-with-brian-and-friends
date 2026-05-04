@@ -1,5 +1,5 @@
 ---
-title: "Elewyn"
+title: "Elowen Giggleleaf"
 weight: 1
 type: docs
 ---
@@ -8,7 +8,7 @@ Played by Bri
 
 ## Character Design
 
-- Elf Druid
+- Wood Elf Druid
 - Outlander background
 
 ## Character Traits
@@ -27,4 +27,4 @@ Played by Bri
 
 ## Backstory
 
-Little is known about the past of the mysterious Elewyn. She simply wanders the world, helping whoever she can however she can, and following the wind.
+Little is known about the past of the mysterious Elowen. She simply wanders the world, helping whoever she can however she can, and following the wind. She is odd and whimsical; dreamy yet perceptive; a gentle healer and lover of nature.

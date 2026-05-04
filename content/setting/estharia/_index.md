@@ -7,5 +7,5 @@ Norville is the country in which the story begins and primarily takes place. It 
 
 ## Towns
 
-- [Norville](norville.md)
-- [Ratwhistle](ratwhistle.md)
+- [Norville](norville
+- [Ratwhistle](ratwhistle

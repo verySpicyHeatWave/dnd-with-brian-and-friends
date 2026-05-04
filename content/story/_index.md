@@ -5,4 +5,4 @@ type: docs
 ---
 This section contains all of the session summaries. Each session summary will contain a short summary at the top, followed by a more detailed account of the story, and finally followed by the rewards that came from that session.
 
-- [Session 1: The Lamp Emporium](s001-the-lamp-shop.md)
+- [Session 1: The Lamp Emporium](s001-the-lamp-shop
