@@ -16,7 +16,11 @@ _This section is currently incomplete!_
 - They find some imps on the showroom floor painting a sign, planning to open the shop the following day
 - Having a change of heart and considering the nature of the enslavement, the players decide to instead help Belvedere retain control of the lamp emporium for a price.
 - Aelyra casts Charm person on one of the imps ([Biff](../../npcs/imps/biff)), who takes them to their de facto leader [Max](../../npcs/imps/max), who is planning a rebellion against the Demon [Belvedere](../../npcs/demons/belvedere), who has reinstated the contracts for himself.
-- After a discussion with Max regarding Belvedere's desires to destroy Norville, the party has another change of heart and decides to kill Belvedere for the imps, freeing them of their binding contracts. 
+- After a discussion with Max regarding Belvedere's desires to destroy Norville, the party has another change of heart and decides to kill Belvedere for the imps, freeing them of their binding contracts.
+- The party discovers an imp sneaking away, likely to inform Belvedere. They catch him, torture him, discover Belvedere's weakness, and then kill him and take his tail.
+- The party then searched Belvedere's quarters for any signs of life, for the spellbook--anything. Aelyra finds the demon Belvedere's horn.
+- Belvedere and his closest ally imp Huh emerge from an abyssal portal in the quarters and demand the horn back.
+- Vesper eats an Impish Bonbon, trying to gain Belvedere's trust to buy some time, and is immediately set into a crippling confusion.
 
 
 <!-- ## Rewards
@@ -28,7 +32,8 @@ _This section is currently incomplete!_
 - Gold
 
 - Aelyra
-
+  - 1 Demon's Horn ([Belvedere](../../npcs/demons/belvedere))
+  
 - Elowen
 
 - Syren
