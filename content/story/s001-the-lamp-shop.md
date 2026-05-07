@@ -84,4 +84,52 @@ Vesper begins interrogating the pink imp, wanting to know Belvedere's weaknesses
 
  ### Finding Belvedere
 
- Uhhhh not yet, sir!
+Max, having listened in to the elve's interrogation, leans in and tells tells Vesper that he knows that there are impish Bonbons on the showroom counter. She runs downstairs to grab them, taking a couple of gold coins from the cash register and replacing them with her chocolates.
+
+After that, Max tells the party that Belvedere stays in Findlay's quarters, and he leads them up the stairs to the fourth floor. As they pass through the third, more adorable little imps watch on. Since the players are being accompanied by Max, they look away as if to say, "I didn't see anything." The players continue climbing the stairs up to the fourth floor--Findlay's master suite. 
+
+In the suite, they see an open portal to the abyssal realm, the swirling vortex of hell just beyond. Lying on the floor in front of the portal is a welcome mat that reads "Not Welcome" and faces towards the portal, which keeps the demons and imps from being able to enter the mortal plane. In the middle of the room drawn on the floor lies a cleanly-drawn and slightly glowing incantation circle, the center of which is adorned with Findlay's severed finger, pulsing with the magic of the ward that keeps the rest of his physical body out.
+
+There is no sign of anyone in the room.
+
+The party derives plans to search the room. Vesper begins searching through bookshelves, desks, etc. Looking for some sort of information about what sort of work is happening here, and also hoping to find Findlay's spellbook. She doesn't uncover anything of note. Syren skips back down to the third floor to see if she can find Belvedere there and get the drop on him. She sees some cute little imps, but no sign of Belvedere there. Aelyra is looking for signs of recent occupancy, checking for warm candles, ruffles bed dressings, fresh smells in the chamberpot, anything like that. Elowen is keeping watch for the demon more generally, looking for signs of him possibly hiding magically, and opening windows in the hopes that the wind reveals something to her.
+
+Aelyra finds a **big massive dump** in the commode, still warm with the heat of the bowels from which they exited (sorry Alex, that's probably pretty gross), so someone was certainly here recently. As she is about to walk away from the chamber pot, she gives it a final tap, which triggers a hidden mechanism and opens a hidden compartment in the bottom, and inside of it is a broken demon's horn. She gathers the party together to share and discuss her findings. As they muse about the horn, its former owner, and the implications of its detached state, the wind blows from an open window and across the room, encircling the portal. As Elowen turns to see what the wind is trying to tell her, the others follow her gaze towards the portal from which a demon emerges and asks in a gentle voice, "uh, can I uhh, have that back please?" He gestures towards the horn. The demon is Belvedere, who is of average height and size, looking more human than demon, with one of his horns broken off.
+
+"You can't have that back," says Syren.
+
+"I dont think you can prove this is yours," says Vesper.
+
+"Huh!", says Belvedere.
+
+The party froze, somewhat confused.
+
+"Not you. Huh!" And following the second call of the word "Huh," a small white imp with black eyes comes through the portal as well. The party notice now that the demon and imp are both wearing special passes around their necks that allow them to pass through the portal. The imp is named Huh, and as soon as he comes into the room, the room fills with the acrid smell of ammonia and chemicals. The glint of a lamp light just barely reflects off of his sharp glass knife and catches Elowen's eye, before Huh becomes invisible entirely.
+
+"Yeah, I'm gonna need that back," Belvedere says.
+
+Syren gives Vesper some of her bardic inspiration before Vesper offers him some impish bonbons as a means to make a deal with Belvedere and call off Huh, possibly just to buy themselves some time. "We're just trying to talk," she says. Max watches on silently.
+
+Belvedere says, "I would like my horn first, thank you very much".
+
+"We were offered money for this horn, you should give us money for it."
+
+"Hmm... how about I promise you won't get stabbed by my friend who's floating around here if you give me my horn back."
+
+Vesper pulls an Impish Bonbon from her bag and shows it to Belvedere.
+
+"Hmm... have you ever had one of those?"
+
+"They're pretty spicy."
+
+"Go ahead, have one! That looks like a really good one." He pulls an impish bonbon from his own pocket and says, "cheers?"
+
+They both take a bite of their impish bonbons. Immediately, Vesper notes how it tastes like raw flour, but Vesper chews on defiantly. Then her stomach turns and she begins to feel nauseous, like she is about to vomit, but the vomit never comes. All of a sudden, her body goes weightless, her vision goes black for a moment, her senses are gone, and when it comes back, the colors are all inverted and wrong, and she can't really remember who anyone is or what she is doing there. She begins consulting with Marzipan, the only thing she recognizes.
+
+Belvedere says, "I guess you can't hang. Do you mind if I take this?" And Vesper just hands over the box of impish bonbons, confused.
+
+Then he turns to Syren. "So, how about that horn?"
+
+### Battle: Belvedere and Huh
+
+_NOT YET BROTHER!_
