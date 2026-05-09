@@ -21,27 +21,32 @@ _This section is currently incomplete!_
 - The party then searched Belvedere's quarters for any signs of life, for the spellbook--anything. Aelyra finds the demon Belvedere's horn.
 - Belvedere and his closest ally imp Huh emerge from an abyssal portal in the quarters and demand the horn back.
 - Vesper eats an Impish Bonbon, trying to gain Belvedere's trust to buy some time, and is immediately set into a crippling confusion.
+- Elowen is hypnotized by Belvedere, causing her to attack Vesper. Vesper is stabbed by Huh, who has turned invisible, and stabs her into unconsciousness.
+- Aelyra casts an illuminating spell, preventing Belvedere from disappearing. Syren shoots him with a crossbow bolt.
+- Elowen comes to attack Aelyra, but thinking quickly, she uses her Mage Hand to tear the quarterstaff from her grip and to fling it at Belvedere, injuring him severely.
+- She then casts Dissonaant Whisper, which overwhelms the weakened Belvedere and kills him.
+- Elowen snaps out of it and saves the dying Vesper, bringing her back to good health.
+- The imps are freed, and the party has salvaged rewards in their own way, both from Findlay and from retrieving objects.
 
-
-<!-- ## Rewards
+## Rewards
 
 - Experience
-  - Total session XP: 5000
-  - XP per player: 1250
+  - Total session XP: 2000
+  - XP per player: 500
 
 - Gold
+  - 120 Gold Pieces, divided as the players see fit
 
 - Aelyra
   - 1 Demon's Horn ([Belvedere](../../npcs/demons/belvedere))
   
 - Elowen
-
-- Syren
+  - One of Findlay's Spell Books
 
 - Vesper
-  - 1 Imps Tail ([Yuck](../../npcs/imps/yuck)
--->
-
+  - 1 Imp's Tail ([Yuck](../../npcs/imps/yuck)
+  - 7 Gold Pieces (from the cash register, wink wink)
+  - One of Findlay's Spell Books
 
 ## Story
 
@@ -137,4 +142,24 @@ Then he turns to Syren. "So, how about that horn?"
 
 ### Battle: Belvedere and Huh
 
-_NOT YET BROTHER!_
+The party tenses, and Belvedere notices the tension rising in the room. He looks between the four elves and spies Elowen preparing a fiery spell. He whips around and casts his own spell on her. Her peripheral vision flashes an icy blue for a second before she hears Belvedere's voice in her head, "kill the poisoned one", and in that moment it becomes clear to Elowen that this is what she must do, it's crucially important that she obey this order. With the help of Marzipan, Vesper regains her faculties just in time to see an uncharacteristically dead-eyed Elowen approaching with her quarterstaff, and before she can react, Elowen bashes Vesper hard in the chest. Just moments later, the glass dagger plunges into Vesper's back. Breathless, bleeding, and half-blind, she falls unconscious.
+
+Aelyra casts Faerie Fire in the room in the hopes that it highlights the invisible imp, but the imp happens not to be in the range of the cube. He remains unseen. Belvedere, not yet realizing that he is engulfed in light, attempts to vanish in a plume of smoke, but the outline of his frame be seen clearly through his hazy shroud thanks to the faerie fire. Syren has drawn her crossbow, and fires a bold directly into the haze, piercing Belvedere.
+
+Despite this pain, Elowen hears Belvedere's voice call to her again, saying, "Now go and get my horn." And Elowen turns towards Aelyra, who had the horn tucked away in her pack. Aelyra sees Elowen approaching, realizing what she has just done to Vesper, thinks quickly. She casts mage hand, ripping the quarterstaff from the absentminded Elowen's graps and flinging it to Belvedere. The blow lands hard, bashing the side of his head near the stump that remains from his severed horn. He stumbles, the smoke from his attempt to disappear fades as he loses concentration on his spell. As Belvedere stumbles and falls, Syren fires a shot, but misses because of his unpredictable swaying.
+
+The quarterstaff being torn from Elowen's grasp and the interruption of Belvedere's focus allows Elowen to break free of his spell. With no memory of what has transpired since the spell was cast, she looks around to take stock of the situation. Aelyra mouths to her, "I'm sorry". Elowen realizes she's moved to a completely different part of the room. Her spell focus--the quarterstaff--has been flung at the demon who's lying on the floow surrounded by a cube of light. Vesper is bleeding out on the floor just behind her. Ever the healer, she rushes to Vesper's side and casts Spare the Dying, stopping the bleeding and preventing the death of her new friend.
+
+Aelyra has one more trick up her sleeve. She casts Dissonant Whisper, filling Belvedere's demonic head with a terrible song of pain and torture. The demon tries to flee, but his body is weak and broken, and the pain becomes too much to bear. His hot demon blood leaks from his eyes and nose and ears, and he writhes in pain... until he doesn't. The demon is dead.
+
+Max, seeing his nemesis slain, calls out, "Huh! It's time to end this! It's over, and we are going home!"
+
+Huh reveals himself, his fury glints in his black eyes, and he rushes towards Max, screeching "That was my master, you fool!" But Max deftly flies up over Huh and slams down on top of him. He turns to Aelyra and says to her, "Thank you for freeing us. I will take care of him, you guys can do whatever you want in here. We'll be gone by morning."
+
+Elowen tends to Vesper, casting Cure Wounds to seal the wound from Huh's glass dagger once and for all. Syren retrieves Findlay's finger from the warding circle, breaking the ward and allowing him to return to the lamp shop. Vesper and Elowen continue their search of Findlay's suite, each finding one of his spell books. Then, the party bids farewell to the imps, who are already preparing to return through the portal, and they head back to the Lute & Lyre.
+
+### Findlay
+
+The party returns to find Findlay fast asleep at a table. The tavern is quiet, everyone has filtered out. It is late in the night. The party wakes him and tells them what happened, for the most part. Findlay offers to pay for the imp tail around Vesper's neck, but she declines, saying she'd rather keep it. He inquires about the horn, and they say they couldn't find it, nor could they find his spellbooks, suggesting that they could be beyond the abyssal portal in his office.
+
+Findlay wonders how he will get more imp servants, and Aelyra suggests that he instead hire actual workers in the future and pay them, rather than relying on slave labor. He seems to consider the option before bidding the party good night and heading back to his home. The players retire to their quarters in the tavern to rest and recover, waiting to see what the next day holds for them.
