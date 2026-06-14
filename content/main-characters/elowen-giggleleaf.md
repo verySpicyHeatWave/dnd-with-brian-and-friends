@@ -27,4 +27,4 @@ Played by Bri
 
 ## Backstory
 
-Little is known about the past of the mysterious Elowen. She simply wanders the world, helping whoever she can however she can, and following the wind. She is odd and whimsical; dreamy yet perceptive; a gentle healer and lover of nature.
+Little is known about the past of the mysterious Elowen, even to Elowen. One day, she simply awoke or appeared in the woods with no memory of her origins. She communes with the wind and wanders to wherever it takes her, looking for the next place where she can provide help. She is odd and whimsical; dreamy yet perceptive; a gentle healer and lover of nature.

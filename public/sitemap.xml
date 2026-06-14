@@ -28,19 +28,27 @@
   </url><url>
     <loc>//localhost:1313/story/s001-the-lamp-shop/</loc>
   </url><url>
+    <loc>//localhost:1313/npcs/undead/skeleton/</loc>
+  </url><url>
     <loc>//localhost:1313/setting/squawhorn/</loc>
   </url><url>
     <loc>//localhost:1313/main-characters/syren-ashryver/</loc>
   </url><url>
+    <loc>//localhost:1313/npcs/humanoid/thad/</loc>
+  </url><url>
     <loc>//localhost:1313/setting/squawhorn/the-twilight-court/</loc>
   </url><url>
-    <loc>//localhost:1313/main-characters/vesper-treadway/</loc>
+    <loc>//localhost:1313/npcs/humanoid/vesper-and-syrens-mother/</loc>
+  </url><url>
+    <loc>//localhost:1313/main-characters/vesper-dreadway/</loc>
   </url><url>
     <loc>//localhost:1313/npcs/imps/biff/</loc>
   </url><url>
     <loc>//localhost:1313/npcs/demons/</loc>
   </url><url>
     <loc>//localhost:1313/npcs/humanoid/findlay/</loc>
+  </url><url>
+    <loc>//localhost:1313/story/s002-the-wizards-tower/</loc>
   </url><url>
     <loc>//localhost:1313/story/</loc>
   </url><url>
@@ -53,6 +61,12 @@
     <loc>//localhost:1313/npcs/imps/yuck/</loc>
   </url><url>
     <loc>//localhost:1313/setting/</loc>
+  </url><url>
+    <loc>//localhost:1313/npcs/undead/</loc>
+  </url><url>
+    <loc>//localhost:1313/npcs/gwarveaux/</loc>
+  </url><url>
+    <loc>//localhost:1313/npcs/time-wizard/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>

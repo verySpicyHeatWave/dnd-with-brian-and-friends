@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D&amp;D With Brian and Friends – Undead Characters</title>
+    <link>//localhost:1313/npcs/undead/</link>
+    <description>Recent content in Undead Characters on D&amp;D With Brian and Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/npcs/undead/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Skeleton</title>
+      <link>//localhost:1313/npcs/undead/skeleton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/npcs/undead/skeleton/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This skeleton was trapped in the study of &lt;a href=&#34;../../../../story/s002-the-wizards-tower&#34;&gt;The Abandoned Wizard&amp;rsquo;s Tower&lt;/a&gt;, forced to keep the study as a servant to whatever wizard once lived there. But when the tower was abandoned, the magic that worked in that place was never released, and so it worked and worked.&lt;/p&gt;
+&lt;p&gt;It was freed by the players and it said it wanted to join them, so it&amp;rsquo;ll be following along.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
