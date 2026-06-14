@@ -31,7 +31,7 @@ From Brittney:
 
 > She's a half elf rogue who performs lute in taverns while quietly relieving wealthy patrons of their coin purses. But don't worry, she's not a monster. She will leave behind chocolate coins and place of stolen ones. She's charming, a little chaotic, and extremely passionate about collecting beautiful daggers. She insists her good luck comes from a tiny, invisible duck named marzipan, which she assures everyone is completely real.
 
-Vesper Dreadway grew up in Ratwhistle with her adoring human father [Thad](../../npcs/humanoid/thad), from whom she adopted her affinity for knives. Her [mother](../npcs/humanoid/vesper-and-syrens-mother)
+Vesper Dreadway grew up in Ratwhistle with her adoring human father [Thad](../../npcs/humanoid/thad), from whom she adopted her affinity for knives. Her [mother](../npcs/humanoid/vesper-and-syrens-mother) died at childbirth, and so she was raised solely by her father, as well as by the seedy community of Ratwhistle.
 
 ## Marzipan
 
