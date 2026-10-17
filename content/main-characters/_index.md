@@ -8,3 +8,4 @@ This page holds reference to all of the main characters of the story:
 - [Syren Ashryver](./syren-ashryver)
 - [Aelyra Caladwen](./aelyra-caladwen)
 - [Elowen Giggleleaf](./elowen-giggleleaf)
+- [Caenwin](./caenwin)
