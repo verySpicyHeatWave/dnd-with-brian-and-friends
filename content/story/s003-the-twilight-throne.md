@@ -6,7 +6,17 @@ type: docs
 
 ## Highlights
 
+- New friend alert! Caenwyn, a Tiefling woman (red skin, purple horns and hair) who lives in the nearby woods. She and Elowen bond immediately over a shared love of healing animals and general Druidity.
+- Arriving at the Twilight Court, the party passes through the countryside and finds no imp slaves — their entire reason for coming. Weird! And no one really questioned it, either!
+- The king meets with the party. He disrespects them all, lectures Aelyra about her responsibilities as a high born elf woman and as his heir, and when Aelyra mentions imp slavery, promptly has the entire party arrested for treason and sentenced to death.
+- In the dungeon, Syren recognizes the guard as Rowan Thorp, her ex-boyfriend. A prolonged and deeply awkward conversation about infidelity, a girl named Caitlyn, and Rowan’s emotional wellbeing ensues. He does not let them out until Aelyra uses her magic to do it.
+- The party gets to the kitchen and hatch a plan to poison the king, but didn't know the king had hired a poison taster, a teenage boy, who drops dead in front of everyone. The king figures it out immediately. Guards are called. Elowen uses a time travel scroll looted from the wizard’s tower to rewind approximately ten minutes. Only she remembers what happened.
+- Plan B: Elowen wild shapes into a venomous snake, hides under Vesper’s robes, and is carried into the throne room with the (this time unpoisoned) tea. Elowen slithers under the throne and bites the king’s ankle. He thinks it’s a bug and ignores it.
+- The party reconvenes in the kitchen, disguise themselves into various servants and/or animals, and walk out the front gate without incident, capybara in tow. The king is presumably dead. The party escapes. Sunglasses emoji.
+
 ## Rewards
+
+- No rewards today, except for a (presumably?) dead king
 
 ## Story
 
@@ -38,7 +48,7 @@ More silence. The tension eases. Vesper puts her daggers away, but is still eyei
 
 "I love it here," Syren says. She takes another drink and lays down in the grass. She starts making grass angels.
 
-The [skeleton](../../npcs/undead/skeleton) clicks his bones and smiles.
+[Skeleman](../../npcs/undead/skeleton) clicks his bones and smiles.
 
 "What brings you here?" says Elowen.
 
@@ -216,7 +226,7 @@ Some silence passes. The rest of the party watches on awkwardly.
 
 "What's her name?" demands Syren.
 
-"Bella."
+"Caitlyn."
 
 Aelyra says, "Ugh, she's terrible. She's the bitch who tried to outrun you at the running contest."
 
@@ -276,4 +286,62 @@ The whole party as well as the creepy old man start leaving the cell. The old ma
 
 Rowan escorts them through the dungeon, past some other guards. When questioned, he says, "No, it's no problem, I'm just letting them out of the dungeon." The guards are stupefied, but believe that it must be important. Vesper steals Rowan's keys. He gets the party to the entrance to the dungeon, he opens the chest that holds their things and lets them get their things back. Then he opens the door and says, "Okay, go ahead."
 
-They all sprint away. The old man runs out in some other direction, who knows where he went.
+They all sprint away. The old man runs out in some other direction, who knows where he went. Aelyra leads the way and everyone follows as they run towards the kitchens. Aelyra is seeking Elijah, the main kitchen servant. She's a woman, it's an important detail probably.
+
+### This Tea Tastes Funny
+
+In the kitchens, they find Elijah directing kitchen staff, baking scones, and running shit generally. She says, "Oh, Princess. You're not supposed to be here. I heard you were in jail."
+
+"Yeah, no listen. We were, we're not anymore. These are my friends. Elijah, I need you to stay with my friend Skeleman, he's gonna stay with you. He's really nice, he doesn't say much, it's okay. We need some servant's clothes and we need to serve my dad's tea. And I really need this solid from you.
+
+"Don't ask any more questions," says Syren.
+
+"Is she drunk again?" asks Elijah.
+
+"Ignore her," says Aelyra. "What do you say, Elijah?"
+
+"I don't know, it sounds too risky."
+
+"No one will ever know it was you, and I won't tell you what we're going to do for your safety, but it will not end badly for you."
+
+"... Okay. I'm going to pretend that I can't do the math here. Okay? I have no idea what you're going to do with these clothes. They might help. You," she points to Vesper. "Take the boot our of your knife that I know is there."
+
+She takes off her clothes, and convinces another staff member to do the same. They exchange clothes with Aelyra and Vesper. Once the tea is brewed, Elowen casts Poison Spray into the tea. Vesper and Aelyra take the tea and a couple of scones to the throne room.
+
+They set the tea and scone down on a small table next to the king's throne. "Perfect timing," he says. He snaps his fingers, and a teenage boy comes in, picks up the goblet, and takes a sip, and then takes a small bite of the scone. The king, in the meantime, pets the Capybara who is curled up by his throne. After a few minutes, the young man begins to cough. Then he coughs more. Then he begins to gag and choke, and then drops dead moments later. 
+
+At first the king doesn't remark on the young man's death. But then he turns around to look at the boy. He starts muttering to himself, "Wait a minute... That was my poison taste tester. That I just hired. Recently. Because I needed one, because I didn't have one I know other kings do that. Just hired him, he tastes the food for poison, then he died after tasting the food for poison..."
+
+Then he turns to Vesper and Aelyra. "Who are you?! Guards!"
+
+Well, fuck.
+
+Back in the kitchen, a breeze comes through the door and brushes past Elowen. Caenwyn, gazing out the window, notices the light of the moon glint in a particular way. Syren gazes into her mead and swears she saw the foam on top form a skull and crossbones, but she is drunk, so maybe not. Skeleman's teeth are chittering a little bit. Everyone in the room has a sense that something bad is happening with the plan, but they don't know what.
+
+They start discussing a plan. At first, the only plan they can come up with is to rush in, cause as much chaos as possible, and to get everyone out of there in the confusion and escape. That obviously carries a lot of risk. As they assess their belongings, Elowen pulls out the scroll and thinks about it. She inspects it, and is able to figure out what it does. That clever time wizard had devised a small time travel spell on this scroll. Elowen isn't sure how far back it'll take her, but she realizes it might be the only way to solve it.
+
+She does it, she goes back in time. It takes them about ten minutes. No one remembers anything, except for Elowen. She stands in the kitchen, holding the scroll in her hands. It's now blank, the spell formula has been erased. She shows the rest of her friends the scroll and tells them everything she knows, about how the plan failed, but she's not sure how.
+
+### Can We Get A Mulligan On That?
+
+The players discuss alternate plans, since it seems that the poison tea didn't work. They toy with ideas like using Vesper's bomb to just blow up the king, or just running away and planning to try again some other day. They worry that the king is going to kill more people. Elijah, Rowan, and other kitchen staff who might even be considered as implicated in the escape of his daughter, so they decide that the king must die, here and now.
+
+Elowen offers her snake form, since she is a venemous snake. They deliver the tea, just like before, except the tea won't be poisoned. Vesper would hide Elegent inside her garb and Elowen, a slithery snake, would slither out and discreetly inject its venom into the king from under the throne.
+
+Caenwyn, who has remained silent this whole time, realizes that she's joined up with a bunch of insane people.
+
+Once again, Vesper and Aelyra take the tea and a couple of scones to the throne room.
+
+They set the tea and scone down on a small table next to the king's throne. "Perfect timing," he says. He snaps his fingers, and a teenage boy comes in, picks up the goblet, and takes a sip, and then takes a small bite of the scone. The king, in the meantime, pets the Capybara who is curled up by his throne. After a few minutes... Nothing happens. It's all good.
+
+While standing there, Elowen slithers out from under the robe and slips underneath the throne. Vesper and Aelyra leave the room.
+
+Underneath the throne, Elowen bytes the King's ankle and lets the venom inject in. "Ow!" says the king. He looks down, but doesn't see Elowen, who's successfully concealed herself beneath the throne, out of sight. "Must have been some bug or something." The king starts drinking his tea. Elowen is sneaking out, slithering along the walls towards the nearest exit. The Capybara instinctively follows along.
+
+In a few moments, the king begins to sweat. His flesh begins to turn blue, he starts to get dizzy. He tries to stand up but falls down to the floor and begins convulsing.
+
+They all meet back up into the kitchen. With no alarms going off, no ensuing panic or castle lockdown, they all put on disguises. Caenwyn changes shape into a mastiff, Elowen remains in her snake form, Vesper and Aelyra remain in their kitchen staff costume, and Syren and Skeleman also don kitchen outfits. 
+
+Syren triple checks the disguises and she gets them absolutely perfect, and as such, they arouse absolutely no suspicion. On their way out the gate, one of the guard says, "Okay, see you all tomorrow, and your big dog, and your weird looking snake, and your capybara!"
+
+"Why am I a weird looking snake?" Elowen asks herself. Once they get far enough away, Caenwyn and Elowen revert to their natural forms. They rejoice over their victory.
