@@ -23,7 +23,7 @@ type: docs
   - Note: the mud mephits on Floor 4 quietly pickpocketed all previously held gold from the party during negotiations
 
 - Aelyra
-  - 1 Torn Bag of Holding that needs to be repaired
+  - 1 Torn magical bag of some sort that needs to be repaired
 
 - Elowen
   - 1 Wizard's Spell Book
@@ -271,90 +271,94 @@ The players climb the stairs once more.
 
 ### Seriously, Get Us Out Of Here
 
-Like, for real, please...
+They move forward with purpose now. They move straight up the stairs to the second floor. With the vivid memory of their prior deaths in mind, they cautiously approach the trapped room. As they make their way across the room and nothing happens to them, their apprehension grows. Approaching the Door, Vesper is about to open it, but just before she tugs the door open, notices a thin rope attached to the door running into the wall that's never been there before.
 
+The party deliberates on a plan. Aelyra suggests using her mage hand to hold the string in place while she opens the door, but realizes that the door wouldn't be able to open. Vesper offers the option of kicking the door *in*, since the string is coming *out*. She tries a couple of kicks, but the door doesn't budge. Elowen is hyper-focused on the string, though. She decides to use her spider wild shape and turns into a spider, and crawls through the hole in the wall where the string goes to. She finds a pretty dang big bomb there, and the string finds its way into the bomb. She uses her spider incisors to cut that strang and comes back through the hole.
 
-<!-- 
-This is where the last loop happens. Details include:
+Vesper opens the doors to find--yes that's right--stairs. Elowen, still in spider form, hops onto Aelyra's shoulders. Vesper dislodges the bomb from its place on the wall and puts it in her pack and the party heads up the stairs, into the mirror room.
 
-- The bomb diffusal
-- The mirror room doppelganger shows itself
-- The nothic tries to keep "the knowledge" from the party
-- The face door says "oh fuck this just go up there please I'm done"
-- They reach the Time Wizard's Study at the top
-- They gtfo
+The mirror looks mirror. The wall looks wall. No blood, no voices, nothing funky. Elowen looks at herself in the mirror, perched on Aelyra's shoulder, and she hears the voice of her reflection whisper to her, "it's your reason they're stuck here and they're going to leave you here to die." Little spider Elowen sheds a single little spider tear, and the spider reflection has an evil look on its face and a little evil goatee to signify how evil it is.
 
+Vesp looks over at Syren, who's still massively hung over. Behind Syren is a perfect and exact Doppelganger of Syren, preparing to reach out and grab the real and totally unaware Syren. Vesper whips out one of her many daggers--not sure which one--and flicks it right at the doppelganger Syren. The dagger flies through the face of the Doppelganger, which immediately turns to dust. They all heave a sigh of relief, and make their way through the door. They check the door for traps this time, now aware that they all nearly died painful deaths once again.
 
+Up the stairs, they see a Nothic frantically clawing and scratching at the door across the room, desperately trying to get in, but the door seems to be locked. This creature has clearly been trapped in this room for a very long time, judging by the smell of the room and the piles of Nothic refuse in the corners. It seems not to even notice the presense of the adventurers as they enter the room, and so they look around, trying to see if anything else is in this room.
 
+As they inspect, suddenly the Nothic becomes almost painfully aware of their presence. He turns and gives each of them a piercing gaze, a gaze that each of them feels pierce their minds, as though they can feel the Nothic scratching away at their memories just like it did that door. It only lasts a brief moment. Then the Nothic speaks to Aelyra, Vesper, and Elowen in turn and rattles off, "Your father never loved you! You're the reason your mother is dead! And you... You don't even know who you are, do you? There's knowledge in this tower and it's MINE! And you can't have it!" And with that, the Nothic returns its full attention to the door, desperately scratching and clawing away.
 
+Aelyra decides to fire back, attempting to roast him back, casting Vicious Mockery and shouting at the Nothic, "You... Only have one eye! What even is that? You don't even know how to open a door. It's *embarassing*. You have bad hair. I bet you don't even have a girlfriend, do you?!"
 
+The Nothic feels the pain psychically and shouts, "Stop it, stop it, STOP IT!"
 
+"Sucks to suck!" Aelyra responds.
 
+"You're WORTHLESS!" The Nothic continues to work the door, hopelessly.
 
+Vesper draws her bow and waits until the Nothic is fully absorbed in the door, then she fires her arrow which plunges directly into its shoulder blade through its back. The Nothic screeches, like Axl Rose in Welcome to the Jungle, a reference that surely makes sense in this universe. He now turns completely away from the door. "You want to get through the door? No... it's MY DOOR!" and he shrieks again and bears his claws.
 
+Elowen takes the single tear that is still rolling down her cheek from when her reflection said the mean stuff to her and uses it to cast Ice Knife. But she moves her little spider hand too fast and, before the spell can take shape, the tear flings away.
 
-## AI SECTION -- REMOVE WHEN COMPLETE
+Vesper draws her pink acid-enchanted dagger and quickly dashes towards the Nothic. She slashes at him and cuts him. The gash immediately turns pink and fizzles with [Yuck](../../npcs/imps/yuck) damage. The Nothic screeches in pain again.
 
-What follows is a number of iterations of the same tower with escalating complications on each floor. Some highlights:
+Aelyra casts a spell that served her well against the battle with Belvedere back in [Norville](../../setting/estharia/norville)--Dissonant Whispers. She whispers, in her best Axl Rose impression (surely a well known figure in this universe), whispers "SHANANANANANANANANANA KNEEEEEES KNEEEEEEEEEES". The Nothic, who has been so distant from its humanity for so long, doesn't even know how to process the voice that is ringing in his ears. He knows, in a vague sense, that it fucking rocks, but that's really about it.  The power of Guns N' Roses causes him great psychic damage.
 
-**On the second floor:** The room fills with a thick, noxious gas. The door behind them locks. The door ahead of them is just sitting there, tantalizingly across the room. Elowen, who appears to have been built for exactly this kind of scenario, rolls extremely well on her survival check and hauls the party through. Except for Vesper, who becomes completely turned around in the fog and starts walking in circles. Elowen goes back in for her. This is the energy Elowen brings to every situation and it is appreciated.
+Elowen returns to her human form finally so that she can effectively cast spells. She casts Starry Wisp on the Nothic and launches the warm, heavenly radiant light towards it. It absorbs into his flesh, and he glows with the light of the wisp.
 
-Then the ceiling comes down. Multiple times.
+The Nothic, having just suffered a lot of damage at once, can't respond to the magic attacks, but takes a couple of swift desperate swipe at Vesper, clawing the places where her armor doesn't cover. Vesper, thinking quickly, points to the door and shouts, "Woah the door is opening!" Thoughtlessly, the Nothic whips its head around, and says "OH?! THE DOOR?!" When he turns, Vesper plunges her dagger right into its back. It screeches in pain.
 
-**On the fourth floor:** The rats are replaced, in subsequent loops, by a group of [mud mephits](../../npcs/other/mud-mephits) — small, vaguely humanoid mud creatures who immediately identify Aelyra as wealthy and begin demanding tribute in exchange for the key. The negotiations are long, chaotic, and somewhat charming. The mephits walk away with six gold pieces, a lamp, some sticks, and the remainder of Vesper's chocolate coins. What the party doesn't notice until much later is that during all of this, the mephits have quietly helped themselves to all of the gold the party is carrying.
+Aelyra draws her rapier and runs towards the Nothic, and as Vesper's dagger pierces the Nothic, so does Aelyra's rapier. The Nothic's twisted lungs fill with its own blood, its one eye rolls back into its skull, and it falls to the floor. Elowen casts Cure Woundson Vesper to heal her injury from the battle. They step over the Nothic's body and find that the door is simply... unlocked? What a dumbass, he really couldn't even use a door.
 
-**On the third floor:** The mirror gets worse with each loop. First it's portraits — dozens and dozens of paintings of Vesper, all identical, all with a smile that gets just slightly wider as you walk toward the door. Then it's Aelyra's name, written in fresh blood. Then Elowen looks in the mirror and her reflection leans forward and whispers that this is all her fault, that her companions are going to leave her here to die, and then gives her an expression that no reflection should be capable of producing.
+Up the stairs they go, back to the riddle door. Its face lights up at first, but then it recognizes the party and its expression quickly sours.
 
-Vesper stabs the mirror with her acid dagger. The pink hue spreads across the glass from the wound and the reflections all freeze. Aelyra presses Belvedere's horn into the same spot. The mirror goes black. Whispering voices begin to echo in the hallway.
+"What the fuck is wrong with you guys?! You know what? You can just go. Just go, you fucking psychopaths." The door opens and allows the players to pass. They enter the door to find that they are...
 
-Aelyra, feeling that mockery is the appropriate response, delivers a vicious magical insult at whatever is in the mirror. The voices whisper back: *"We are trapped here too."*
+## The Tippity Top of the Tower
 
-And then, after a pause: *"Don't let them replace you."*
+... Not at the entrance? 
 
-In a later loop, on this floor, an exact duplicate of Syren appears behind the real Syren and begins to drag her backward. Vesper, who has been paying attention, draws a dagger and puts it through the doppelganger's head from across the room. It turns to dust. Syren is fine. Vesper is, quietly, very cool.
+Instead of the entrance that they're used to seeing, they find an enormous study, filled with book and desks and strange artifacts. Unlike the rest of the tower, this study is clean. The furniture is polished, the floors are swept, surfaces are dusted. Shuffling around the room is a Skeleton who is silently cleaning the study. Off to the side is an enormous blue glass orb, around four meters in diameter, set low inside of a fixture but somehow free-floating just slightly. It appears to have been inhabited by some wizard who might hvae abandoned it.
 
-**On the second floor, again:** Vesper spots a tripwire running from the door into the wall. Elowen, who is currently a spider, crawls through the hole in the wall, finds the bomb on the other side, cuts the wire with her mandibles, and crawls back out. This is a completely normal sentence that happened. Vesper takes the bomb with her for safekeeping.
+The party is drawn to the orb and they inspect it. They can see a view of the entire tower, but not just the tower as they know it. As they look into the orb, every iteration of this tower reveals itself in their minds. Familiar sights, like the Mephits and the lowering ceiling trap, as well as iterations they had never seen before. They understand that they can see every possibility that exists in the tower. Hundreds or thousands of branched realities, different outcomes, forked timelines, all existing inside of this one tower. They see other adventurers get trapped in the mirror, or captured by the Doppelganger, or slaughtered by creatures, or caught in traps. They see the Nothic, who seemed a kind young wizard when he entered, and watched him slowly transform into the wretched abomination that he was. They see all of this in an instant, and it is almost overwhelming to absorb.
 
-**The riddlemaster** greets them like old friends every time they pass through. His second riddle: *I have a neck but no head, and I wear a cap but have no hair. What am I?* A bottle. He is delighted. When, in a later loop, the party borrows the mephits to burn his door down rather than answer another riddle, he is less delighted. When they come back through in the final loop he just opens immediately, having apparently decided that these particular adventurers are a fire hazard and the riddles are not worth it.
+They tear themselves away from the curiousity of the orb and search the room for other treasures. Aelyra roots around in a large desk and finds notes and documents, magical scrolls and artifacts. She doesn't understand much of it, she at least seems to understand that the former inhabitant was some sort of a Time Wizard, whose focus was on manipulating time and space, and this was once home to his experiments. She also finds a decent sized leather bag, and she can tell when she touches it that it is no ordinary bag. However, the bag is torn.
 
-### The Nothic
+Vesper finds a chest and she open it. She finds quite a lot of gold in the chest, as well as some more spell scrolls. She takes the gold and splits it among the players, and when they put it back into their bags, they all realize that their gold has been stolen. They think back to where it might have gone, and realize that it must have been stolen by the Mephits that they'd met before.
 
-On the fifth loop, the fourth floor has a new occupant. A [Nothic](../../npcs/other/the-nothic) — a misshapen, single-eyed aberration — is at the far end of the room, clawing desperately at the door, trying to get through it. He doesn't notice the party at first. He is entirely consumed with the door.
+Elowen finds an interesting spell book and takes that, as well as a randomly chosen spell scroll. Vesper nabs a couple of cool looking wizardly candelabras and some other shiny trinkets.
 
-When he does notice them, he stares at each of them in turn with his one enormous eye, and he says things. Personal things. Things he could not possibly know. Then he tells them the knowledge beyond that door is his, only his, and they can't have it.
+Th
 
-The DM explains what a Nothic is: a wizard or scholar, consumed so completely by his hunger for knowledge that it warped him, body and mind, into something else entirely. This creature came to the tower seeking the knowledge of the wizard who once lived here. He has been trying to get through that door ever since. For how long, it's impossible to say.
+Not knowing where to go from here, they watch the Skeleton clean and wonder if it's happy. Aelyra wants to take the duster from him, but they're not sure if it just wants to be there or if it's against its will. Vesper asks point-blank,
 
-This doesn't make the party like him more, but it does make them understand him, which is something.
+"Hello, sir? Are you happy here?"
 
-Combat begins. Aelyra opens with a vicious magical insult that deals psychic damage. The Nothic screams at her to stop. She does not stop. Vesper closes the distance in a single movement and drives the acid dagger into his shoulder. Elowen launches a bolt of radiant starlight that illuminates him from within and prevents him from going invisible.
+The skeleton shakes its head.
 
-Vesper, with the Nothic's attention fully on her, announces loudly that she thinks the door behind him is opening. The Nothic whips around. It is not opening. Vesper stabs him again while he's looking. Aelyra sees her opening, runs in, and buries her rapier in his neck.
+"Are you well paid?"
 
-The Nothic falls. His one eye rolls up. The room is quiet.
+The skeleton shakes its head.
 
-### The Wizard's Study
+"Are you being held against your will?" asks Aelyra.
 
-The riddlemaster lets them through without comment. One more flight of stairs. One more door.
+The skeleton nods.
 
-The room at the top of the tower is clean and bright and smells faintly of old books and something else — something charged, the way the air smells before a storm. Shelves of leather-bound tomes line the walls. At a desk nearby lie scattered pages covered in arcane notation — the work of a time wizard, clearly, though the specifics are beyond any of them. There is a chest. There is a skeleton, quietly sweeping the floor, who does not look up.
+"Ooooohh!" they all say.
 
-And in the center of the room, low to the ground, large enough that you'd have trouble lifting it alone, glowing sky-blue and soft: the orb.
+"Would you like to join our crew?" asks Vesper.
 
-Aelyra looks into it. For a moment she can see everything — every version of the tower, every iteration of every room, every person who ever walked in here and didn't walk back out. She can see the Nothic when he first arrived: just a man, a scholar, eager to learn. She sees people taken by the mirror. She sees loops no one ever completed. She sees the whole terrible history of this place all at once, compressed into a single moment, and then she steps back and doesn't touch it again.
+The skeleton nods.
 
-Elowen asks the skeleton if he's all right. He points at the orb.
+"How do we free you?" asks Elowen.
 
-The chest has 200 gold inside and a torn magical bag that is definitely a Bag of Holding and will be very useful once someone repairs the rip in it. There are spell scrolls. There is a spellbook. There are candelabras that Vesper immediately begins pocketing. Elowen takes the spellbook.
+The skeleton points to the orb.
 
-Then they smash the orb.
+"Ooooohh!" they all say. 
 
-All four of them lift it together and let it drop and it shatters across the floor in a cascade of blue light. The skeleton stops sweeping. He holds very still for a moment. Then he looks at his hands. Then he looks at the party. Then he begins to dance — the unrestrained, uncomplicated dancing of something that has been waiting a very, very long time to be allowed to move freely.
+They slowly approach the orb, chanting, "Break the orb! Break the orb! Break the orb!" Together, they all lift the orb out of its holder, still chanting, and give it the ol' heave-ho. The orb hits the floor and shatters. Immediately, the Skeleton stops cleaning and looks at the party. Then he does a little dance! Weee!
 
-The stairs have become slides. Nobody questions this.
+They feel the tower change, somehow. As they approach the door to leave, they find that the stairs turned into a slide! Weee! They slide down, and as they slide, they pass through all of the floors that they once passed through before. They are all empty rooms, even the room with a mirror has *no mirror*. The tower feels like a truly abandoned tower. Back at the first floor, they see that there are five torches on the wall, lit.
 
-On the way down, every floor is quiet and empty and genuinely abandoned. The rats are gone. The mephits are gone. The mirror room is just a room with a wall in it. When they pass through the entry hall, five torches burn on the wall, and the front door swings open to evening air and a clear sky and the smell of rain on the road.
+Vesper approaches the front door and it opens freely. They find that the sun is shining, the birds are chirping, the storm has passed. They don't know how long they were in the tower or what happened in the meantime.
 
-The storm has passed. Squawhorn is still out there. They set up camp and rest.
+"Well... Glad we rested, guys," says Vesper.
 
--->
+They set up camp away from the tower and rest for real.
