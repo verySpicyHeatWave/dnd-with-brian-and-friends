@@ -1,6 +1,6 @@
 ---
-title: "Thaddeus Miller"
-weight: 1
+title: "Thad Miller"
+weight: 4
 type: docs
 ---
 

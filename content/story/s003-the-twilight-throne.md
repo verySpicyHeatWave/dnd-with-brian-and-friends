@@ -128,7 +128,7 @@ The king's face turns red. "If you were worth **half** a shit as your father, yo
 
 "She's really drunk," adds Aelyra.
 
-"Then it'll be that much easier. Guards, take them to the dungeons. They are to be sentenced to death, for treason. For crimes against this country. Daughter, approach me."
+"Then it'll be that much easier. Guards, take them to the dungeons. They are to be sentenced to death, for treason. For crimes against this country." The king turns to Aelyra. "Daughter, approach me."
 
 She approaches, and he says, "You know too much. I can't, with all of your rebellion, let you leave this castle alive."
 
@@ -136,7 +136,9 @@ Aelyra looks around, panicked for a moment. A plan formulates in her head. A goo
 
 She clears her throat and prepares herself, assured in the pure brilliance of her plan. It's foolproof, it can't possibly fail.
 
-"BLINDNESS!" she shouts. She casts blindness into the king's face, but the king is able to dispel it. "Guards! She has assaulted the king!"
+"BLINDNESS!" 
+
+She casts a Blindness spell into the king's face, but the king is able to dispel it. "Guards! She has assaulted the king!"
 
 The party is surrounded by guards. Vesper pulls out her bow, but Syren tells her, "bro, chill." They relent, deciding collectively that they will try to escape.
 
@@ -146,8 +148,132 @@ In one final attempt to plea, Aelyra says, "That was an accident, I wasn't actua
 
 "I know, crazy, right?" says Aelyra.
 
-### Welcome to the Dungeon, We Got Fun and Games
+### Drama in the Dungeon
 
-Everyone except for the Capybara is brought to the dungeons. The king keeps the Capybara with him in the throne room, because everyone agrees that he is cool as fuck.
+Everyone except for the Capybara is brought to the dungeons, all in the same large jail cell. The king keeps the Capybara with him in the throne room, because everyone agrees that he is cool as fuck. Vesper is able to sneak a single dagger into the jail cell into her boot, but no one else is able to effectively conceal any of the items that they want to try and escape the dungeons.
 
-Vesper is able to sneak a single dagger into the jail cell into her boot.
+The jail cell is dark and damp and moldy and cold. There is one other person in there, an old, insane, disheveled husk of a man chained to the wall. "Oh hello, ladies! Oh ha hah hogh hahad huimsm ha hdhehehe aho!"
+
+"Disgusting," says Elowen. They all move as far away from that guy as possible.
+
+"Well guys... Sorry my dad sucks, I tried to tell you," says Aelyra.
+
+"Yeah, thanks a lot," says Syren, who is eating a breadstick.
+
+"Where'd you get a breadstick?!" says Elowen.
+
+The party looks around and they see that there is one guard at the dungeon entrance. He's far enough away that he can't hear them talk or see them. Vesper is searching the room, touching the walls, looking for ways out. They get brief memories of their deaths from in the tower as they feel around the cold stone walls.
+
+Syren recognizes that the guard is her ex boyfriend, [Rowan Thorp](../../npcs/humanoid/rowan-thorp) and she thinks she might be able to woo him with her wily charms.
+
+"Hey Thorp--I mean, Rowan," she says.
+
+"What do you want, *Syren*?"
+
+"How have you been?"
+
+"Fine."
+
+"Yeah?"
+
+"Yeah."
+
+Some silence passes. The rest of the party watches on awkwardly.
+
+"You fuckin' cheated on me," Rowan says.
+
+"Ohhhhhhhhhh!" everyone yells.
+
+"I did not!" says Syren.
+
+"You did!"
+
+"When?"
+
+"With other Thorp! You cheated on me with Thorp Rowan!"
+
+"Isn't that you?" asks Vesper.
+
+"No, I'm Rowan Thorp! It was fucked up, honestly. We don't look alike!
+
+"I don't know who told you this, but they are full of shit. I am yours and only yours."
+
+"We broke up so long ago, and honestly I'm over it. It's been like eight months!" He smells. "Dude! Are you drunk? I can smell it!"
+
+"...Would you like a drink?"
+
+"Ohh my fucking god, not this again. I can't do this again!" Vesper and Elowen reach out to try and console Rowan.
+
+"This relationship has me so traumatized, you guys. Who even are you?"
+
+"Hi, Vesper," says Vesper, "Um, she's gonna bug you about this the whole time in here. You should just let us out of here!"
+
+"No way, I would be killed," he says.
+
+"What if you come with us?" says Syren.
+
+"Look, things are going really well for me right now. I have a new girlfriend and she doesn't drink or anything."
+
+"What's her name?" demands Syren.
+
+"Bella."
+
+Aelyra says, "Ugh, she's terrible. She's the bitch who tried to outrun you at the running contest."
+
+"Yeah," says Syren, "She cheated. She threw a stick in front of me. It was a big stick."
+
+"Yeah well you ALSO cheated! With Thorp Rowan!"
+
+"Come on, Thorp, you're killing me, man," says Aelyra.
+
+"It's Rowan," he corrects. "Thorp and her totally ruined my life. I was depressed."
+
+"Awwww," says everyne except Syren.
+
+"Things are going good for me right now! I'm not trying to lose my job and my life." 
+
+"She's the heiress! When the king dies, do you wanna be on HER shitlist?" 
+
+"She hands tomorrow, why do I care?"
+
+"Hey, buddy," says Vesper, "are you gonna propose to Caitlyn?"
+
+"I don't know, guys, we haven't been together that long, but I do really like--WHY AM I EVEN TALKING TO YOU? I'm leaving!"
+
+"Can we convince you to let us out?" asks Syren.
+
+"Not a chance." And he walks away.
+
+"Rowan, how much do you make? Slightly above minimum wage? Imagine this. We want to overthrow the king. This is is heiress, as you know, and you're like, 'oh she's gonna hang tomorrow', but here's the deal: She won't, if you let us out. And you wanna know what happens to you if you let her out? Captain of the guard. Captain Rowan Thorp, imagine it. No more dungeon duty."
+
+"Wait, hold on," he says. "You guys are gonna overthrow the king?"
+
+"No, no," says Elowen.
+
+"Vesper is gonna kill the king for us," says Syren.
+
+Vesper looks around nervously.
+
+"You guys are gonna overthrow the king? You remember why you're in here, right?"
+
+"...I rolled a bad number."
+
+"For treason! And crimes against your country!"
+
+Aelyra can't take this anymore. She prepares a Suggestion spell and casts it on Rowan. She says to him, "You will let us out of the cell, give us our stuff back, and help us escape the dungeon. *sha na na na*," she says.
+
+Rowan blinks and stares for just a second, and then says, "Okay, no problem." He unlocks the cell.
+
+"YEAH! That's my best friend!" says Syren.
+
+"Thanks, Rowan," says Vesper.
+
+"You're welcome, of course!" says Rowan.
+
+The whole party as well as the creepy old man start leaving the cell. The old man says, "YEaeeeahhh ladiesssss heh hyeh hsh hhaaj hd heh hou hui."
+
+"Ew, put him back, put him back," says Elowen.
+
+Rowan escorts them through the dungeon, past some other guards. When questioned, he says, "No, it's no problem, I'm just letting them out of the dungeon." The guards are stupefied, but believe that it must be important. Vesper steals Rowan's keys. He gets the party to the entrance to the dungeon, he opens the chest that holds their things and lets them get their things back. Then he opens the door and says, "Okay, go ahead."
+
+They all sprint away. The old man runs out in some other direction, who knows where he went.
