@@ -9,6 +9,7 @@ All of the details regarding the NPCs will be here, with some general sorting.
 - [Demons](./demons/)
 - [Imps](./imps/)
 - [Undead](./undead/)
+- [Monsters](./monsters/)
 
 A few mysterious character names which have been mentioned or identified but never met:
 

@@ -1,6 +1,6 @@
 ---
 title: "The Time Wizard"
-weight: 6
+weight: 7
 type: docs
 ---
 
