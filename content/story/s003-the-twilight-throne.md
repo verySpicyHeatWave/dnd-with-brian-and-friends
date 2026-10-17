@@ -1,5 +1,5 @@
 ---
-title: "Session #3: The Imperial Assassination Plot"
+title: "Session #3: Imperial Assassination Plot"
 weight: 3
 type: docs
 ---
